@@ -9,7 +9,9 @@ The **Interactive CNN Visualization Tool** allows users to:
 
 The project uses Streamlit for the interactive interface, TensorFlow for the CNN architecture, and OpenCV for image preprocessing.
 
-**NOTE:** The jupyter notebook only runs the demo. If you wish to check out the UI, please run with streamlit.\
+**NOTE:** 
+- The provided Jupyter notebook, final-project.ipynb, demonstrates CNN operations using OpenCV (cv2) only, as Streamlit is not supported within Jupyter environments.
+- To experience the full interactive user interface, please run the project using Streamlit (see instructions below).
 
 ### Getting Started
 1. Install the dependencies:\
@@ -19,7 +21,11 @@ The project uses Streamlit for the interactive interface, TensorFlow for the CNN
 3. Input an Image:\
    You can either draw an image using the interactive canvas or upload a custom image. 
 
-Explore visualizations of the CNN layers!\
+Explore visualizations of the CNN layers!
+
+Here is an example:
+![Demo.png](Demo.png)
+
 
 ### Resources
 * Dataset - We haven't used any specific dataset since our projects focuses on visualization rather than on traning a CNN for one specific dataset.
