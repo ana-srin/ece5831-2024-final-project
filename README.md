@@ -24,7 +24,7 @@ The project uses Streamlit for the interactive interface, TensorFlow for the CNN
 Explore visualizations of the CNN layers!
 
 Here is an example:
-![Demo.png](Demo.png)
+![Demo.png](demo.png)
 
 
 ### Resources
