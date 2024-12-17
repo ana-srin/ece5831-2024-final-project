@@ -30,7 +30,7 @@ Here is an example:
 
 ### Resources
 * Dataset - We haven't used any specific dataset since our projects focuses on visualization rather than on traning a CNN for one specific dataset.
-* Project Report [Link to Report](https://drive.google.com/file/d/1ZSVbu-SzPwG6AAwbmZQVQC5BbeE5uFE7/view?usp=drive_link)
+* Project Report [Link to Report](https://drive.google.com/file/d/1RtiSzlNzIAbN9kZ0_4RY4IB2xvgGkTvC/view?usp=drive_link)
 * Presentation Slides [Link to Slides](https://drive.google.com/file/d/15AHJgBnLUnZc3_UFvz5YuQexnoxSzG9g/view?usp=drive_link)
 * Presentation [Link to Video](https://youtu.be/zHOBiQmFux4)
 * Demo [Link to Video](https://drive.google.com/file/d/190AmJZ7Ujdnk0YnIvN8IXVZmh7lTCw5q/view?usp=drive_link)
